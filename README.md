@@ -12,7 +12,7 @@ I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
-- [Deployed Heroku Link]()
+- [Deployed Heroku Link](https://radiant-bayou-62416.herokuapp.com/)
 
 ## Table of contents
 
@@ -54,9 +54,11 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Links
 
-- [Github Repository](https://github.com/FraserClarke/Burger-Logger)
+- [Deployed Heroku Link](https://radiant-bayou-62416.herokuapp.com/)
 
-- [Deployed Heroku Link]()
+- [Github Link](https://github.com/FraserClarke)
+
+- [Github Repository](https://github.com/FraserClarke/Note-Taker)
 
 ## Credits
 
