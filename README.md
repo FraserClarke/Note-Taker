@@ -12,7 +12,7 @@ I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
-- [Deployed Heroku Link](https://pacific-mountain-42642.herokuapp.com/)
+- [Deployed Heroku Link]()
 
 ## Table of contents
 
@@ -49,14 +49,14 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Screenshots
 
-![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Note-Taker/main/public/assets/img/screen1.png)
-![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Note-Taker/main/public/assets/img/screen2.png)
+![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Note-Taker/main/public/assets/img/screen1.PNG)
+![Example screenshot](https://raw.githubusercontent.com/FraserClarke/Note-Taker/main/public/assets/img/screen2.PNG)
 
 ## Links
 
 - [Github Repository](https://github.com/FraserClarke/Burger-Logger)
 
-- [Deployed Heroku Link](https://pacific-mountain-42642.herokuapp.com/)
+- [Deployed Heroku Link]()
 
 ## Credits
 
